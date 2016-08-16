@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SOCIAL_MEDIA]]></title>
         <description><![CDATA[SOCIAL_MEDIA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/social_media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 16:14:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Aug 2016 16:15:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/social_media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sin duda este nuevo capítulo de batalla entre snapchat e instagram, es algo que dara que hablar por un buen tiempo</p>]]></description>
-            <link>undefinedsin-duda-este-nuevo-capitulo-de-batalla-entre-snapchat-e-ins/index.html</link>
+            <link>https://thegrid.ai/social_media/sin-duda-este-nuevo-capitulo-de-batalla-entre-snapchat-e-ins/index.html</link>
             <guid isPermaLink="false">21b9dd19-d2a2-41f3-8251-5835e25cc92d</guid>
-            <pubDate>Tue, 16 Aug 2016 16:14:33 GMT</pubDate>
+            <pubDate>Tue, 16 Aug 2016 16:14:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
