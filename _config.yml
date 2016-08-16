@@ -1,7 +1,7 @@
 name: SOCIAL_MEDIA
 favicon: null
-layout_spectrum: 0.19188709347508848
-typography_spectrum: 0.8157536704093218
+layout_spectrum: 0.78094
+typography_spectrum: 0.59684
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.02748422627337277
+  brandStrength: 0
   lightness: 0.7082840004004538
   saturation: 0.34050396154634655
   rhythmicContrast: 0.4076666955370456
